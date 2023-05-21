@@ -1,3 +1,7 @@
+//* Nome do Aluno: Mateus Saullo Felizardo
+//* RA:12523137684
+//* Nome do Programa: Escreva um programa que, dado um número positivo digitado pelo o usuário mostre a tabuada de todos os números de 1 até o número digitado. (utilize for)
+
 import java.util.Scanner;
 
 public class atividade21 {
